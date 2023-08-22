@@ -1,5 +1,4 @@
-Machine Learning for Speech Recognition and Synthesis
-===============================================================================================================
+
 
 Machine learning is a subfield of AI technology that focuses on enabling computers to learn and improve from experience without being explicitly programmed. Machine learning algorithms can be used to enable speech recognition and synthesis, allowing individuals to dictate messages and documents with greater efficiency and accuracy.
 

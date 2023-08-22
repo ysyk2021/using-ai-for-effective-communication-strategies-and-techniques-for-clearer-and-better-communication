@@ -1,5 +1,4 @@
-Natural Language Processing (NLP) for Language Translation
-====================================================================================================================
+
 
 Natural Language Processing (NLP) is a subfield of AI technology that focuses on the interaction between computers and human language. NLP algorithms can be used to analyze and understand written or spoken language, enabling a variety of applications in communication.
 
