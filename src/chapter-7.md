@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology is rapidly transforming the way we communicate, offering powerful solutions for enhancing communication performance. However, it's important to evaluate the impact of AI on communication and understand the tradeoffs of AI-enhanced communication.
 
 Understanding the Tradeoffs of AI-Enhanced Communication

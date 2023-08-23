@@ -1,5 +1,4 @@
 
-
 Inclusive communication is critical to ensuring that all individuals are treated fairly and equitably. Advances in artificial intelligence (AI) technology are transforming the way we communicate, enabling us to promote inclusivity and diversity through AI non-biased language analysis.
 
 How AI Non-Biased Language Analysis Works

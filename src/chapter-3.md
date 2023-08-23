@@ -1,5 +1,4 @@
 
-
 Implementing AI technology into communication workflows can help individuals and organizations communicate more effectively and efficiently. However, getting started with AI for effective communication requires careful planning and consideration.
 
 Identifying Communication Scenarios that can be Improved with AI

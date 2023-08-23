@@ -1,5 +1,4 @@
 
-
 Misunderstandings can be a major barrier to effective communication, leading to confusion, frustration, and inefficiencies. Advances in artificial intelligence (AI) technology are transforming the way we communicate, enabling us to reduce misunderstandings with AI-generated summaries and transcripts.
 
 How AI-Generated Summaries and Transcripts Work
