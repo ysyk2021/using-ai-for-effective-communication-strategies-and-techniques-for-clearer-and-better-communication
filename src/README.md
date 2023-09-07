@@ -10,3 +10,7 @@ The book introduces readers to the basics of AI technology and how it can be app
 By the end of this book, readers will have a comprehensive understanding of the capabilities of AI for communication, as well as practical strategies and techniques for utilizing AI to achieve clearer and more effective communication.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
