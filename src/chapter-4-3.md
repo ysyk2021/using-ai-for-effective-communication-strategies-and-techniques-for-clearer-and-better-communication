@@ -1,5 +1,4 @@
-Chapter 5: Analyzing Conversation Sentiment and Tone with AI Text and Audio Analysis
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the fascinating world of using AI-powered tools to analyze the sentiment and tone of conversations, whether they are in written text or spoken audio form. Effective communication is not just about the words we use; it's also about the emotions and attitudes conveyed. Understanding and managing sentiment and tone are crucial aspects of achieving clearer and better communication.
 

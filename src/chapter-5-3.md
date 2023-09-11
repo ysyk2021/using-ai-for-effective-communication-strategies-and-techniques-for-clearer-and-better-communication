@@ -1,5 +1,4 @@
-Chapter 7: Reducing Misunderstandings with AI-Generated Summaries and Transcripts
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how AI-generated summaries and transcripts can be powerful tools for reducing misunderstandings and enhancing communication clarity. These technologies offer the ability to distill complex information into concise, comprehensible formats, making it easier for individuals and organizations to convey and grasp crucial messages.
 

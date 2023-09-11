@@ -1,5 +1,4 @@
-Chapter 9: Streamlining the Meeting Process with AI Scheduling and Agenda Management
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the transformative impact of AI-driven tools on streamlining the meeting process. With AI scheduling and agenda management, we can optimize meeting efficiency, enhance communication, and ensure that meetings serve their intended purpose.
 

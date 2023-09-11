@@ -1,5 +1,4 @@
-Chapter 6: Enhancing Language Translation with AI-Powered Translation Tools
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our interconnected global society, effective communication often involves transcending language barriers. This chapter explores the transformative role of AI-powered translation tools in improving language translation, enabling clearer and more efficient communication across diverse linguistic landscapes.
 

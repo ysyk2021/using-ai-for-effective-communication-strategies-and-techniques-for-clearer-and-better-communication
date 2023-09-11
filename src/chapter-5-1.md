@@ -1,5 +1,4 @@
-Chapter 7: Minimizing Language Barriers with AI Translation and Interpretation Services
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Language diversity can be a powerful force for global communication, but it can also pose significant challenges. In this chapter, we explore how Artificial Intelligence (AI) is revolutionizing the way we bridge language gaps, enabling clearer and more effective communication across linguistic boundaries.
 

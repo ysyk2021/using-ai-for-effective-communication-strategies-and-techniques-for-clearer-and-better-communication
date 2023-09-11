@@ -1,5 +1,4 @@
-Chapter 6: Balancing Human Connection with AI Assistance
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of communication, the integration of Artificial Intelligence (AI) has become a pivotal point of discussion. While AI offers unprecedented opportunities to enhance efficiency and effectiveness, it also poses challenges in maintaining the crucial element of human connection. In this chapter, we delve into the strategies and techniques for striking the delicate balance between human connection and AI assistance in communication.
 

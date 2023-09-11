@@ -1,5 +1,4 @@
-Chapter 10: Identifying Communication Scenarios That Can Be Improved with AI
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI has the potential to enhance various aspects of communication, making it clearer and more effective across a wide range of scenarios. In this chapter, we explore the diverse communication scenarios where AI can play a pivotal role in improvement.
 

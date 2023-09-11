@@ -1,5 +1,4 @@
-Chapter 8: Understanding the Tradeoffs of AI-Enhanced Communication
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the complexities and nuances of AI-enhanced communication, exploring the benefits and tradeoffs that arise when integrating artificial intelligence into our communication strategies. While AI offers numerous advantages, it also presents challenges and ethical considerations that must be carefully navigated for communication to truly become clearer and better.
 

@@ -1,5 +1,4 @@
-Chapter 6: Improving Speech Recognition and Synthesis with AI Voice Assistants
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the transformative impact of AI voice assistants on speech recognition and synthesis, and how they contribute to achieving clearer and more effective communication. Voice technology powered by AI has significantly advanced the way we interact with devices and communicate with one another.
 

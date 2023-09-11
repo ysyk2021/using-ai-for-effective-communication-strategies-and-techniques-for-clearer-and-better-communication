@@ -1,5 +1,4 @@
-Chapter 7: Creating Engaging Content with AI-Assisted Editing and Writing
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the digital age, producing compelling and error-free content is crucial for effective communication. This chapter delves into the transformative capabilities of AI-assisted editing and writing tools, offering insights into how they enhance the creation of engaging, error-free content.
 

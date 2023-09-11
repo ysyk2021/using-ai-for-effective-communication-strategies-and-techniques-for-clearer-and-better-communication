@@ -1,5 +1,4 @@
-Chapter 9: Selecting AI Communication Tools and Implementing Them into Workflows
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The successful integration of Artificial Intelligence (AI) communication tools into existing workflows can significantly enhance clarity and effectiveness. In this chapter, we explore the process of selecting the right AI communication tools and seamlessly incorporating them into your daily operations.
 

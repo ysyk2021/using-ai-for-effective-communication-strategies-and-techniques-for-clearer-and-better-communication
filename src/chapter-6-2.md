@@ -1,5 +1,4 @@
-Chapter 5: Promoting Inclusivity and Diversity with AI Non-Biased Language Analysis
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's diverse and interconnected world, promoting inclusivity and diversity is a fundamental aspect of effective communication. This chapter explores the powerful role that AI non-biased language analysis plays in fostering clear, respectful, and inclusive communication.
 

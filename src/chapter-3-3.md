@@ -1,5 +1,4 @@
-Chapter 8: Creating a Customized AI Roadmap for Communication Enhancement
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey to leverage Artificial Intelligence (AI) for clearer and more effective communication, one size does not fit all. Each organization and individual has unique needs and goals. In this chapter, we explore the process of creating a customized AI roadmap to enhance communication tailored to your specific objectives and challenges.
 

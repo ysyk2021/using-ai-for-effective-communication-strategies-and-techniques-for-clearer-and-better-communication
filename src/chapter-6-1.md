@@ -1,5 +1,4 @@
-Chapter 8: Enhancing Emotional Connection with AI-Powered Personalized Communication
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective communication isn't just about conveying information---it's also about building emotional connections. This chapter explores the transformative potential of AI-powered personalized communication in fostering deeper and more meaningful relationships in various contexts.
 
